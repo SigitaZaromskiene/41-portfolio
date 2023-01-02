@@ -1,67 +1,49 @@
-# CAT THEME ERROR PAGE
+DOCLAND
+website design project
 
-_website design project_
+🌟 About
+This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-<br>
+Site published at: https://front-end-by-rimantas.github.io/40-grupe-portfolio-docland/
 
-## 🌟 About
+Design: DOCLAND
 
-This project is for educational porpuses only.
+🎯 Project features/goals
+Github pages
+responsive design
+form
+animations
+icons
+content rendering
+gallery
+slider
+🧰 Getting Started
+💻 Prerequisites
+Node.js - download and install
 
-Site published at: https://sigitazaromskiene.github.io/03-cute-cat/
-
-## 🎯 Project features/goals
-
-- Github pages
-- basic [HTML (structure)](https://www.w3schools.com/TAGS/default.asp) and [CSS (style)](https://www.w3schools.com/html/html_css.asp)
-- [markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
-- CSS classes
-
-## 🧰 Getting Started
-
-### 💻 Prerequisites
-
-Node.js - _download and install_
-
-```
 https://nodejs.org
-```
+Git - download and install
 
-Git - _download and install_
-
-```
 https://git-scm.com
-```
-
-### 🏃 Run locally
-
+🏃 Run locally
 Would like to run this project locally? Open terminal and follow these steps:
 
-1. Clone the repo
-   ```sh
-   git clone https://github.com/front-end-by-rimantas/41-grupe-ufo.git
-   ```
-2. Install NPM packages
-   ```sh
-   npm i
-   ```
-   or
-   ```sh
-   npm install
-   ```
-3. Run the server
-   ```sh
-   npm run dev
-   ```
-
-### 🧪 Running tests
-
+Clone the repo
+git clone https://front-end-by-rimantas.github.io/40-grupe-portfolio-docland.git
+Install NPM packages
+npm i
+or
+npm install
+Run the server
+npm run dev
+🧪 Running tests
 There is no tests for this project.
 
-## 🎅 Authors
+🎅 Authors
+Audrius: Github Laura: Github Mindaugas: Github Rokas: Github Tomas: Github
 
-Sigita: [Github](https://github.com/SigitaZaromskiene)
+⚠️ License
+Distributed under the MIT License. See LICENSE.txt for more information.
 
-## 🔗 Other resources
-
-No other resouces.
+🔗 Other resources
+https://randomuser.me/photos
